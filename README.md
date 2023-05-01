@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a software engineer student and i more intersted in full stack development :<br>* I'm using spring boot or Django in the Back-End side <br>*  I'm using Angular , Bootstrap , HTML5 and CSS3 in the Front-End side <br>*  I'm working with java , python and javascript  programming languages <br>
+I'm currently a software engineer student and i more intersted in full stack development :<br>* I'm using spring boot and Django frameworks in the Back-End side <br>*  I'm using Angular framework , Bootstrap , HTML5 and CSS3 in the Front-End side <br>*  I'm working with java , python and javascript  programming languages <br>
 
 
 ## 🌐 Socials:
