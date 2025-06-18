@@ -6,7 +6,8 @@ I’m a **software engineer student** specializing in **Full‑Stack Development
 - **Front‑End**: Angular · React · Tailwind CSS  
 - **AI Automation & No‑Code**: n8n · Flowise · LangFlow  
 - **Generative & Agentic AI**: LangChain · LangGraph · CrewAI · Ollama · Prompt Engineering  
-- **Tools & Productivity**: GitHub Copilot · Figma · Notion  
+- **Tools & Productivity**: GitHub Copilot · Figma · Notion
+- **Programming Languages** : Python, Java and Typescript 
 
 ---
 
